@@ -34,6 +34,8 @@ The project follows a multi-layer approach to process and refine data:
 
 ---
 
+## Project inspired by the "Data with Baraa" YouTube tutorial.
+
 ## 📂 Project Structure
 ```bash
 ├── Scripts/          # SQL scripts for tables, views, and stored procedures
