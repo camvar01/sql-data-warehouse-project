@@ -34,11 +34,13 @@ The project follows a multi-layer approach to process and refine data:
 
 ---
 
-## Project inspired by the "Data with Baraa" YouTube tutorial.
-
 ## 📂 Project Structure
 ```bash
 ├── Scripts/          # SQL scripts for tables, views, and stored procedures
 ├── Tests/            # Quality gate scripts to verify the Gold layer
 ├── Docs/             # Documentation regarding data flow and requirements
 └── README.md         # Project documentation
+
+---
+
+## Project inspired by the "Data with Baraa" YouTube tutorial.
